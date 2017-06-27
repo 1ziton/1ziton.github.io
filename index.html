@@ -148,7 +148,7 @@
         download.innerHTML='准 备 下 载 中...';
         var isiOS = !!navigator.userAgent.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/);
         if (isiOS) {
-            window.location.href = "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/jzt_download/blob/master/app.plist";
+            window.location.href = "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/1ziton/jzt_download/master/app.plist";
             setTimeout(function () {
                 download.innerHTML='点击安装后,请按Home键在桌面查看';
             },4000);
