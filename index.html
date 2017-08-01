@@ -23,7 +23,7 @@
 
         .logo {
             background-image: url(bg.png);
-            height: 100px;
+            height: 90px;
             margin-top: 30px;
             color: #fff;
             text-align: center;
@@ -64,7 +64,7 @@
         }
 
         .introduction {
-            padding: 0px 16px;
+            padding: 10px 16px;
         }
 
         .introduction>h1 {
@@ -156,26 +156,33 @@
 
 
     <script>
+        //动态设置图片高度
+        var web_bg = document.getElementById('web_bg');
+        var winWidth = window.innerWidth;
+        var height = winWidth/580*552;
+        web_bg.style.height = height + 'px';
+
         var ua = navigator.userAgent.toLowerCase();
-        if (ua.match(/MicroMessenger/i) == "micromessenger") {
-            document.getElementById('weiXin').style.display = 'block';
-        }
         function download() {
+            if (ua.match(/MicroMessenger/i) == "micromessenger") {
+                document.getElementById('weiXin').style.display = 'block';
+            }
             var download = document.getElementById('download');
             download.innerHTML = '准 备 下 载 中...';
             var isiOS = !!navigator.userAgent.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/);
             if (isiOS) {
-                document.getElementById('openApp').onclick = function (e) {
-                    // 通过iframe的方式试图打开APP，如果能正常打开，会直接切换到APP，并自动阻止a标签的默认行为
-                    // 否则打开a标签的href链接
-                    var ifr = document.createElement('iframe');
-                    ifr.src = 'com.yizhitong.newjztong://';
-                    ifr.style.display = 'none';
-                    document.body.appendChild(ifr);
-                    window.setTimeout(function () {
-                        document.body.removeChild(ifr);
-                    }, 3000)
-                };
+                download.innerHTML = '前 往 App Store';
+                // document.getElementById('openApp').onclick = function (e) {
+                //     // 通过iframe的方式试图打开APP，如果能正常打开，会直接切换到APP，并自动阻止a标签的默认行为
+                //     // 否则打开a标签的href链接
+                //     var ifr = document.createElement('iframe');
+                //     ifr.src = 'com.yizhitong.newjztong://';
+                //     ifr.style.display = 'none';
+                //     document.body.appendChild(ifr);
+                //     window.setTimeout(function () {
+                //         document.body.removeChild(ifr);
+                //     }, 3000)
+                // };
                 document.getElementById('openApp').click();
             } else {
                 window.location.href = "http://down.1ziton.com/jzt_5.2.apk";
@@ -184,7 +191,6 @@
                 }, 4000);
             }
         }
-
     </script>
 </body>
 
