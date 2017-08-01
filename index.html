@@ -159,14 +159,12 @@
         //动态设置图片高度
         var web_bg = document.getElementById('web_bg');
         var winWidth = window.innerWidth;
-        var height = winWidth/580*552;
+        var height = winWidth / 580 * 552;
         web_bg.style.height = height + 'px';
 
         var ua = navigator.userAgent.toLowerCase();
         function download() {
-            if (ua.match(/MicroMessenger/i) == "micromessenger") {
-                document.getElementById('weiXin').style.display = 'block';
-            }
+            
             var download = document.getElementById('download');
             download.innerHTML = '准 备 下 载 中...';
             var isiOS = !!navigator.userAgent.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/);
@@ -185,6 +183,9 @@
                 // };
                 document.getElementById('openApp').click();
             } else {
+                if (ua.match(/MicroMessenger/i) == "micromessenger") {
+                    document.getElementById('weiXin').style.display = 'block';
+                }
                 window.location.href = "http://down.1ziton.com/jzt_5.2.apk";
                 setTimeout(function () {
                     download.innerHTML = '立 即 下 载';
