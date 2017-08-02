@@ -86,13 +86,14 @@
 
         .footer button {
             font-size: 16px;
-            background: #0084ff;
+            background: #f58425;
             padding: 10px 20px;
             border: none;
             border-radius: 50px;
             color: white;
             margin-top: 10px;
             min-width: 240px;
+            outline: none;
         }
 
         #weiXin {
@@ -186,7 +187,7 @@
                 if (ua.match(/MicroMessenger/i) == "micromessenger") {
                     document.getElementById('weiXin').style.display = 'block';
                 }
-                window.location.href = "http://down.1ziton.com/jzt_5.2.apk";
+                window.location.href = "http://down.1ziton.com/jzt.apk";
                 setTimeout(function () {
                     download.innerHTML = '立 即 下 载';
                 }, 4000);
