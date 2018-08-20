@@ -1,4 +1,4 @@
-招聘啦！招聘啦！招聘啦！重要事情说三遍。咳咳，幸运的你看到了这篇文章，这将是你人生的转折点。
+招聘啦！招聘啦！招聘啦！
 
 ## 关于公司
 
@@ -44,7 +44,7 @@
 
 ### 薪资
 
-8K-15k/月
+**8K-15k/月**
 
 ### 简历投递 到 `liusixin@1ziton.com` 或 `yangting@1ziton.com`
 
@@ -56,33 +56,34 @@
 
 **年度旅游**：海滩游玩、海鲜大餐
 
-![年度旅游](./photo/年度旅游.jpg)
+![年度旅游](https://github.com/1ziton/1ziton.github.io/raw/master/photo/%E5%B9%B4%E5%BA%A6%E6%97%85%E6%B8%B8.jpg)
 
 
 **生日party**，每月同月生日的小伙伴一起过生日
 
-![](./photo/每月生日party.jpg)
+![](https://github.com/1ziton/1ziton.github.io/raw/master/photo/%E6%AF%8F%E6%9C%88%E7%94%9F%E6%97%A5party.jpg)
 
 
 **唱歌喝酒自助餐**，工作累了也要放松
 
-![](./photo/唱歌喝酒自助餐.jpg)
+![](https://github.com/1ziton/1ziton.github.io/raw/master/photo/%E5%94%B1%E6%AD%8C%E5%96%9D%E9%85%92%E8%87%AA%E5%8A%A9%E9%A4%90.jpg)
 
 
 **团建活动**：活动点子由你定，定期团队团建活动
 
-![](./photo/团建活动1.jpg)
+![](https://github.com/1ziton/1ziton.github.io/raw/master/photo/%E5%9B%A2%E5%BB%BA%E6%B4%BB%E5%8A%A81.jpg)
 
+![](https://raw.githubusercontent.com/1ziton/1ziton.github.io/master/photo/%E5%85%AC%E5%8F%B8%E5%B0%8F%E5%A7%90%E5%A7%90.jpg)
 
 
 **撸串**：虽然喝酒对身体不好（发胖），但是偶尔也要喝酒撸串不能少
 
-![](./photo/团建活动-撸串.jpg)
+![](https://github.com/1ziton/1ziton.github.io/raw/master/photo/%E5%9B%A2%E5%BB%BA%E6%B4%BB%E5%8A%A8-%E6%92%B8%E4%B8%B2.jpg)
 
 
 **人生大事，约妹子组织联谊**：这种情况就要主动出击了。
 
-![](./photo/约妹子组织联谊.jpg)
+![](https://github.com/1ziton/1ziton.github.io/raw/master/photo/%E7%BA%A6%E5%A6%B9%E5%AD%90%E7%BB%84%E7%BB%87%E8%81%94%E8%B0%8A.jpg)
 
 
 
