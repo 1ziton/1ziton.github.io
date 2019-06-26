@@ -68,7 +68,9 @@ var projectList = [
   {
     name: '数据大屏',
     date: '2018/04',
-    description: '数据大屏展示系统（1人）'
+    description: '数据大屏展示系统（畅神1人）',
+    url:
+      'https://user-images.githubusercontent.com/8676711/40115038-b4f1a9a8-5941-11e8-9c48-d9dfeb629c32.png'
   },
   {
     name: 'SCM2.0',
@@ -88,7 +90,7 @@ var projectList = [
   {
     name: 'WMS PDA',
     date: '2018/09',
-    description: 'WMS PDA启动开发，App技术栈转为React Native，鸡哥一人独揽'
+    description: 'WMS PDA启动开发，App技术栈转为React Native，基哥一人独揽'
   },
   {
     name: '方米立临时官网',
@@ -110,7 +112,7 @@ var projectList = [
   {
     name: '数据平台系统',
     date: '2018/10',
-    description: '数据平台2.0版本（1人）',
+    description: '数据平台2.0版本（前期1人，风亮）',
     url: 'https://bigdata.1ziton.com'
   },
   {
