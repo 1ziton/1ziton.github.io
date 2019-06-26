@@ -14,7 +14,7 @@ var projectList = [
     name: '大前端组',
     date: '2017/05',
     description:
-      'Web前端组与App开发组合并为大前端，技术栈Web为Angular，App为Ionic（APP开发3人，Web约7~9人）'
+      'Web前端组与App开发组合并为大前端，技术栈Web为Angular，App为Ionic（团队人数达12人，APP开发3人，Web约7~9人）'
   },
   {
     name: 'CMP',
@@ -104,6 +104,11 @@ var projectList = [
     description: '使用Taro开发方米立家居电商小程序（2人）'
   },
   {
+    name: 'OA考勤小程序',
+    date: '2018/12',
+    description: 'OA上班打卡和考勤统计小程序版本（Taro）'
+  },
+  {
     name: '方米立运营端',
     date: '2018/12',
     description: '方米立运营端管理系统（2人）',
@@ -129,19 +134,19 @@ var projectList = [
   {
     name: '方米立2.0',
     date: '2019/05',
-    description: '分销小C端功能上线（1人）'
+    description: '分销小C端功能上线（1人+）'
   },
   {
     name: '前端CI/CD',
     date: '2019/06',
     description:
-      '前端工程化建设，DevOps流程实践运行（giscafer独自一人，运维配合）',
+      '前端工程化建设，DevOps流程实践运行（giscafer + 运维配合）',
     url:
       'https://user-images.githubusercontent.com/8676711/60176862-13480680-984a-11e9-9c54-83526b66a4e3.png'
   },
   {
     name: '继续前行',
     date: '现在',
-    description: '系统是开发不完的…思考如何在实践过程中不断成长！'
+    description: '系统是开发不完的…更多思考如何在给公司创造更多的价值的同时，也能在实践过程中不断成长！'
   }
 ];
