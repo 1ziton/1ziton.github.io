@@ -41,6 +41,12 @@ var projectList = [
     url: 'http://jzt.1ziton.com'
   },
   {
+    name: '新家装通6.0',
+    date: '2018/01',
+    description: '家装通全面改版（2人）',
+    url: 'http://jzt.1ziton.com'
+  },
+  {
     name: '直营IPS',
     date: '2017/10',
     description: '直营网点系统（2人）',
