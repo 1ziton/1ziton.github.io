@@ -38,7 +38,7 @@ var projectList = [
     name: '新家装通5.0',
     date: '2017/06',
     description: '家装通重构（6人，21天上线）',
-    url: 'https://jzt.1ziton.com'
+    url: 'http://jzt.1ziton.com'
   },
   {
     name: '直营IPS',
