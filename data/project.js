@@ -136,7 +136,8 @@ var projectList = [
     date: '2019/06',
     description:
       '前端工程化建设，DevOps流程实践运行（giscafer独自一人，运维配合）',
-    url: 'https://github.com/giscafer/front-end-manual/issues/26'
+    url:
+      'https://user-images.githubusercontent.com/8676711/60176862-13480680-984a-11e9-9c54-83526b66a4e3.png'
   },
   {
     name: '继续前行',
