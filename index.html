@@ -98,7 +98,15 @@
         transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0.15s !important;
       }
 
-      .changelog .sl-changelog .sl-changelog-item-description {
+      .sl-changelog-item-title {
+        margin-bottom: 5px !important;
+      }
+      .sl-changelog-item-description {
+        font-size: 15px;
+      }
+
+      .changelog .sl-changelog .sl-changelog-item-description,
+      .sl-changelog-item-title {
         opacity: 0;
         -webkit-transform: translateX(-40px);
         transform: translateX(-40px);
@@ -115,7 +123,11 @@
       .changelog
         .sl-changelog
         .sl-changelog-item.is-visible
-        .sl-changelog-item-description {
+        .sl-changelog-item-description,
+      .changelog
+        .sl-changelog
+        .sl-changelog-item.is-visible
+        .sl-changelog-item-title {
         opacity: 1;
         -webkit-transform: none;
         transform: none;
@@ -190,11 +202,23 @@
           display: none;
         }
       }
+      .header {
+        /* position: fixed;
+        top: 5px;
+        left: 15px; */
+        position: relative;
+        max-width: 600px;
+        padding-left: 120px;
+        margin: 50px auto 0 auto;
+      }
     </style>
-    <script src="./data/project.js?v=20190626"></script>
+    <script src="./data/project.js?v=201906261"></script>
   </head>
 
   <body>
+    <div class="header">
+      <h3>1zitonFE 团队事件日记</h3>
+    </div>
     <div id="main" class="main changelog" role="main">
       <ul class="sl-changelog">
         <!--  <li class="sl-changelog-item is-unread">
