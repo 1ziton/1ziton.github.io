@@ -134,19 +134,20 @@ var projectList = [
   {
     name: '方米立2.0',
     date: '2019/05',
-    description: '分销小C端功能上线（1人+）'
+    description: '分销小C端功能上线（2人）'
   },
   {
-    name: '前端CI/CD',
+    name: 'CI/CD',
     date: '2019/06',
     description:
-      '前端工程化建设，DevOps流程实践运行（giscafer + 运维配合）',
+      '前端工程化建设，DevOps流程实践运行，13+项目集成、QQ机器人消息推送到群（giscafer + 运维配合，2周）',
     url:
       'https://user-images.githubusercontent.com/8676711/60176862-13480680-984a-11e9-9c54-83526b66a4e3.png'
   },
   {
     name: '继续前行',
     date: '现在',
-    description: '系统是开发不完的…更多思考如何在给公司创造更多的价值的同时，也能在实践过程中不断成长！'
+    description:
+      '系统是开发不完的…更多思考如何在给公司创造更多价值的同时，也能在实践过程中不断成长！'
   }
 ];
