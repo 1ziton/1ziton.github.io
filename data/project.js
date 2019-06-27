@@ -2,7 +2,8 @@ var projectList = [
   {
     name: '团队组建',
     date: '2017/03',
-    description: '2017年3月giscafer入职，前端开始组建团队，人数从1个增加到7个'
+    description:
+      '2017年3月giscafer入职，正好扩招，前端开始组建团队，人数从1个增加到7个'
   },
   {
     name: 'IPS',
@@ -14,7 +15,7 @@ var projectList = [
     name: '大前端组',
     date: '2017/05',
     description:
-      'Web前端组与App开发组合并为大前端，技术栈Web为Angular，App为Ionic（团队人数达12人，APP开发3人，Web约7~9人）'
+      'Web前端组与App开发组合并为大前端，技术栈Web为Angular，App为Ionic（团队人数达11+，APP开发3人，Web约7~9人）'
   },
   {
     name: 'CMP',
@@ -35,13 +36,13 @@ var projectList = [
     url: 'https://bms.1ziton.com'
   },
   {
-    name: '新家装通5.0',
+    name: '新家装通 v5.0',
     date: '2017/06',
-    description: '家装通重构（6人，21天上线）',
+    description: '原生技术栈App家装通使用Ionic重构（5人，21天上线）',
     url: 'http://jzt.1ziton.com'
   },
   {
-    name: '新家装通6.0',
+    name: '新家装通 v6.0',
     date: '2018/01',
     description: '家装通全面改版（2人）',
     url: 'http://jzt.1ziton.com'
@@ -53,13 +54,13 @@ var projectList = [
     url: 'https://self.1ziton.com'
   },
   {
-    name: 'WMS2.0',
+    name: 'WMS v2.0',
     date: '2017/11',
     description: '仓储管理系统（2人+）',
     url: 'https://wms.1ziton.com'
   },
   {
-    name: '官网2.0',
+    name: '官网 v2.0',
     date: '2018/01',
     description:
       '一智通官网重构，从PHP技术栈重构为Java技术栈，前端用ng1.x，为了兼容老浏览器（3人+）',
@@ -73,29 +74,29 @@ var projectList = [
       'https://user-images.githubusercontent.com/8676711/40115038-b4f1a9a8-5941-11e8-9c48-d9dfeb629c32.png'
   },
   {
-    name: 'SCM2.0',
+    name: 'SCM v2.0',
     date: '2018/06',
     description: 'SCM2.0，重构TMS桌面端到Web端，整合业务（2~4人浮动）'
   },
   {
-    name: 'BMS2.0',
+    name: 'BMS v2.0',
     date: '2018/08',
     description: 'BMS2.0前端改版，优化体验（3人）'
   },
   {
-    name: 'WMS3.0',
+    name: 'WMS v3.0',
     date: '2018/09',
     description: 'WMS3.0启动开发（3人）'
   },
   {
     name: 'WMS PDA',
     date: '2018/09',
-    description: 'WMS PDA启动开发，App技术栈转为React Native，基哥一人独揽'
+    description: 'WMS PDA启动开发，App技术栈转为React Native （vision 1人）'
   },
   {
     name: '方米立临时官网',
     date: '2018/12',
-    description: '一人一天半开发的工具网站（Node.js+MongoDB+LayUI）',
+    description: 'giscafer 一人一天开发的工具网站（Node.js+MongoDB+LayUI）',
     url: 'https://yanshuo.io/assets/player/?deck=5c6b5d5da91c9300548b8083#/'
   },
   {
@@ -128,19 +129,19 @@ var projectList = [
   {
     name: '小智哥运营端',
     date: '2019/04',
-    description: '小智哥运营管理系统，基本是大罗（妹子）一人独揽',
+    description: '小智哥运营管理系统（主要是大罗（妹子）1人负责）',
     url: 'https://xiaozhige.1ziton.com'
   },
   {
-    name: '方米立2.0',
+    name: '方米立 v1.4',
     date: '2019/05',
     description: '分销小C端功能上线（2人）'
   },
   {
-    name: 'CI/CD',
+    name: 'CI/CD流程',
     date: '2019/06',
     description:
-      '前端工程化建设，DevOps流程实践运行，13+项目集成、QQ机器人消息推送到群（giscafer + 运维配合，2周）',
+      '前端工程化建设，DevOps 流程搭建搭建，13+ 项目集成、QQ机器人消息推送到群（giscafer + 运维配合，2周）',
     url:
       'https://user-images.githubusercontent.com/8676711/60176862-13480680-984a-11e9-9c54-83526b66a4e3.png'
   },
