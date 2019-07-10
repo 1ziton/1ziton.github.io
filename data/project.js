@@ -143,7 +143,7 @@ var projectList = [
     description:
       '前端工程化建设，DevOps 流程搭建搭建，13+ 项目集成、QQ机器人消息推送到群（giscafer + 运维配合，2周）',
     url:
-      'https://user-images.githubusercontent.com/8676711/60176862-13480680-984a-11e9-9c54-83526b66a4e3.png'
+      'http://ww1.sinaimg.cn/large/940e68eegy1g4q6ojo0p3j20wg0mbgnk.jpg'
   },
   {
     name: '继续前行',
