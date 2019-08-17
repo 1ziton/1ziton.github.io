@@ -141,7 +141,23 @@ var projectList = [
     name: 'CI/CD流程',
     date: '2019/06',
     description:
-      '前端工程化建设，DevOps 流程搭建搭建，13+ 项目集成、QQ机器人消息推送到群（giscafer + 运维配合，2周）',
+      '前端工程化建设，DevOps 流程搭建搭建，14+ 项目集成、QQ机器人消息推送到群（giscafer + 运维配合，断断续续2周）',
+    url:
+      'http://ww1.sinaimg.cn/large/940e68eegy1g4q6ojo0p3j20wg0mbgnk.jpg'
+  },
+  {
+    name: '官网改版',
+    date: '2019/07',
+    description:
+      '前端十几个静态页面开发，改版上线（3人，一周上线）',
+    url:
+      'http://www.1zton.com'
+  },
+  {
+    name: '小智哥商家端v1.0',
+    date: '2019/07',
+    description:
+      '小智哥商家端Web管理系统开发，前端（主2人，资源灵活支撑）',
     url:
       'http://ww1.sinaimg.cn/large/940e68eegy1g4q6ojo0p3j20wg0mbgnk.jpg'
   },
