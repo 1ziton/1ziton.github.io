@@ -157,9 +157,7 @@ var projectList = [
     name: '小智哥商家端v1.0',
     date: '2019/07',
     description:
-      '小智哥商家端Web管理系统开发，前端（主2人，资源灵活支撑）',
-    url:
-      'http://ww1.sinaimg.cn/large/940e68eegy1g4q6ojo0p3j20wg0mbgnk.jpg'
+      '小智哥商家端Web管理系统开发，前端（主2人，资源灵活支撑）'
   },
   {
     name: '继续前行',
