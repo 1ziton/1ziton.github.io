@@ -142,7 +142,7 @@ var projectList = [
     date: '2019/06',
     description:
       '前端工程化建设，DevOps 流程搭建搭建，14+ 项目集成、QQ机器人消息推送到群（giscafer + 运维配合，断断续续2周）',
-    url: 'http://ww1.sinaimg.cn/large/940e68eegy1g4q6ojo0p3j20wg0mbgnk.jpg'
+    url: 'https://github.com/giscafer/front-end-manual/issues/26'
   },
   {
     name: '官网改版',
