@@ -142,22 +142,30 @@ var projectList = [
     date: '2019/06',
     description:
       '前端工程化建设，DevOps 流程搭建搭建，14+ 项目集成、QQ机器人消息推送到群（giscafer + 运维配合，断断续续2周）',
-    url:
-      'http://ww1.sinaimg.cn/large/940e68eegy1g4q6ojo0p3j20wg0mbgnk.jpg'
+    url: 'http://ww1.sinaimg.cn/large/940e68eegy1g4q6ojo0p3j20wg0mbgnk.jpg'
   },
   {
     name: '官网改版',
     date: '2019/07',
-    description:
-      '前端十几个静态页面开发，改版上线（3人，一周上线）',
-    url:
-      'http://www.1zton.com'
+    description: '前端十几个静态页面开发，改版上线（3人，一周上线）',
+    url: 'http://www.1zton.com'
   },
   {
     name: '小智哥商家端v1.0',
     date: '2019/07',
+    description: '小智哥商家端Web管理系统开发，前端（主2人，资源灵活支撑）'
+  },
+  {
+    name: 'Pixelmon前端解决方案',
+    date: '2019/08',
+    description: '组件库、物料、模板',
+    url: 'https://github.com/1ziton/pixelmon'
+  },
+  {
+    name: '可视化地图排班工具',
+    date: '2019/10',
     description:
-      '小智哥商家端Web管理系统开发，前端（主2人，资源灵活支撑）'
+      '基于地图的可视化运单操作，运单定位打点，地图工具框选，选择分配师傅，实时预约、分配、取消分配等，使得运单分配更合理和高效'
   },
   {
     name: '继续前行',
